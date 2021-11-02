@@ -5,7 +5,7 @@
 
  1. Computing Galactic Orbits of Stars with Gala [Astropy tutorial](https://learn.astropy.org/rst-tutorials/gaia-galactic-orbits.html) 
 
- 2. Galaxy Populations and Data Visualisation - using SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib. 
+ 2. Galaxy Populations and Data Visualisation - using SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
 
  ## Other Resources 
 Here are a bunch of links to other Astronomical Python Tutorials and/or Examples, some of which have been directly used in the development of materials for this class. 
@@ -15,3 +15,4 @@ Here are a bunch of links to other Astronomical Python Tutorials and/or Examples
  * Britt Lundgren's [SciServer Based Astronomy Class](https://github.com/brittlundgren/SDSS-EPO) - tested in an upper level astronomy class at UNC Asheville. 
  * Intro to Python by Colette Salyk: https://github.com/csalyk/python_tutorial/blob/master/python_tutorial.ipynb
  * AstroEdu Package: https://github.com/astroDimitrios/astroedu 
+ * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) - Github repository of this textbook by Jake VanderPlas
