@@ -8,11 +8,27 @@
  2. Galaxy Populations and Data Visualisation - using SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
 
  3. Marvin Access to MaNGA
-   a. We will explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectral maps of galaxies with the code, Marvin
-   b. Check out [Marvin Web](https://dr16.sdss.org/marvin/) and pick a galaxy you like. 
-   c. Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
-   d. Pick one of the [Science Exercises](https://sdss-marvin.readthedocs.io/en/stable/tutorials/exercises.html) to try out. 
+   * We will explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectral maps of galaxies with the code, Marvin
+   * Check out [Marvin Web](https://dr16.sdss.org/marvin/) and pick a galaxy you like. 
+   * Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
+   * Pick one of the [Science Exercises](https://sdss-marvin.readthedocs.io/en/stable/tutorials/exercises.html) to try out. 
  
+ 4. Choose your own adventure: 
+   * Image contour overlays (Contour Image Overlay.ipynb) works through some of this. Not very finished yet! 
+      * THINGS (HI 21cm data): https://www2.mpia-hd.mpg.de/THINGS/Data.html (moment 0 is the intensity map). 
+      * Digitised Sky Survey (for optical FITS images): https://archive.eso.org/dss/dss
+      * List of sources for astronomical FITS files: https://fits.gsfc.nasa.gov/fits_samples.html
+      * Astropy, read a FITS image and plot: https://docs.astropy.org/en/stable/generated/examples/io/plot_fits-image.html#sphx-glr-generated-examples-io-plot-fits-image-py
+      * Astropy: read RA and Dec from the header of a FITS file: https://learn.astropy.org/tutorials/celestial_coords1.html
+      * Astropy overlay contours: https://docs.astropy.org/en/stable/visualization/wcsaxes/images_contours.html
+      * Astropy make 3 colour image: https://docs.astropy.org/en/stable/visualization/rgb.html
+
+   * Large Scale structure in simulations and/or observations
+      * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
+      * Large Scale structure in SDSS: try out LSSGalPy for interactive visualisation: https://github.com/margudo/LSSGALPY
+      * Large Scale Structure in DECaLS and SDSS (not tested on SciServer): https://datalab.noirlab.edu/docs/manual/UsingTheNOAODataLab/ScienceExamples/ProbeLargeScaleStructureInDECaLS/ProbeLargeScaleStructureInDECaLS.html# ;
+      * Two-point correlation functions (untested tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
+
 
  ## Other Resources 
 Here are a bunch of links to other Astronomical Python Tutorials and/or Examples, some of which have been directly used in the development of materials for this class. 
