@@ -25,9 +25,8 @@
 
    * Large Scale structure in simulations and/or observations
       * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
-      * Large Scale structure in SDSS: try out LSSGalPy for interactive visualisation: https://github.com/margudo/LSSGALPY
-      * Large Scale Structure in DECaLS and SDSS (not tested on SciServer): https://datalab.noirlab.edu/docs/manual/UsingTheNOAODataLab/ScienceExamples/ProbeLargeScaleStructureInDECaLS/ProbeLargeScaleStructureInDECaLS.html# ;
-      * Two-point correlation functions (untested tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
+      * Large Scale structure in SDSS: https://github.com/ritatojeiro/SDSSEPO/blob/master/AS1001_SDSSEPO.ipynb (some of this will be a bit familiar from the Galaxy populations notebook - but this focuses more on the LSS and environment). 
+      * Two-point correlation functions (tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
 
 
  ## Other Resources 
@@ -35,7 +34,10 @@ Here are a bunch of links to other Astronomical Python Tutorials and/or Examples
 
  * [Learn Astropy](https://learn.astropy.org/) - a variety of Tutorials, Examples and Documentation about Astropy. 
  * [Python for Astronomers](https://prappleizer.github.io/index.html) (free online textbook, which contains some tutorials/examples)
- * Britt Lundgren's [SciServer Based Astronomy Class](https://github.com/brittlundgren/SDSS-EPO) - tested in an upper level astronomy class at UNC Asheville. 
+ *  Britt Lundgren's [SciServer Based Astronomy Class](https://github.com/brittlundgren/SDSS-EPO) - tested in an upper level astronomy class at UNC Asheville. 
  * Intro to Python by Colette Salyk: https://github.com/csalyk/python_tutorial/blob/master/python_tutorial.ipynb
  * AstroEdu Package: https://github.com/astroDimitrios/astroedu 
  * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) - Github repository of this textbook by Jake VanderPlas
+ * Try out LSSGalPy for interactive visualisation: https://github.com/margudo/LSSGALPY
+ * NOIR Data Lab: https://datalab.noirlab.edu/docs/manual/UsingTheNOAODataLab/ScienceExamples
+
