@@ -22,6 +22,7 @@
       * Astropy: read RA and Dec from the header of a FITS file: https://learn.astropy.org/tutorials/celestial_coords1.html
       * Astropy overlay contours: https://docs.astropy.org/en/stable/visualization/wcsaxes/images_contours.html
       * Astropy make 3 colour image: https://docs.astropy.org/en/stable/visualization/rgb.html
+      * Astropy FITS cube: https://learn.astropy.org/tutorials/FITS-cubes.html
 
    * Large Scale structure in simulations and/or observations
       * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
