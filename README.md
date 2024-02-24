@@ -5,9 +5,11 @@
 
  1. Computing Galactic Orbits of Stars with Gala [Astropy tutorial](https://learn.astropy.org/tutorials/gaia-galactic-orbits.html) 
 
- 2. Galaxy Populations and Data Visualisation - using SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
+ 2. Galaxy Populations and Data Visualisation - a Notebook in this repository. This uses SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
 
- 3. Marvin Access to MaNGA
+ 3. Galaxy Kinematics Scaling Relations and MaNGA Data - a Notebook in this repository. This explores MaNGA data mostly related to kinematics, and also does some statistics with line fits, comparing distributions, exploring the Tully-Fisher relation and how different measures of kinematics differ. 
+
+Other ideas: 
    * We will explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectral maps of galaxies with the code, Marvin
    * Check out [Marvin Web](https://dr16.sdss.org/marvin/) and pick a galaxy you like. 
    * Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
