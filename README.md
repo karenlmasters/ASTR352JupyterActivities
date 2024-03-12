@@ -14,13 +14,15 @@ Other ideas to explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectra
    * Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
    * Pick one of the [Science Exercises](https://sdss-marvin.readthedocs.io/en/stable/tutorials/exercises.html) to try out. 
 
- 4. Large Scale structure in simulations and/or observations
+ 4. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
+
+Other ideas to explore large Scale structure in simulations and/or observations (the notebook in this respository is based in part on some of these)
       * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
       * Large Scale structure in SDSS: https://github.com/ritatojeiro/SDSSEPO/blob/master/AS1001_SDSSEPO.ipynb (some of this will be a bit familiar from the Galaxy populations notebook - but this focuses more on the LSS and environment). 
       * Two-point correlation functions (tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
 
  
- 5. Choose your own adventure: 
+ 5. Images as Data
    * Image contour overlays (Contour Image Overlay.ipynb) works through some of this. Not very finished yet! 
       * THINGS (HI 21cm data): https://www2.mpia-hd.mpg.de/THINGS/Data.html (moment 0 is the intensity map). 
       * Digitised Sky Survey (for optical FITS images): https://archive.eso.org/dss/dss
