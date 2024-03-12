@@ -16,7 +16,7 @@ Other ideas to explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectra
 
  4. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
 
-Other ideas to explore large Scale structure in simulations and/or observations (the notebook in this respository is based in part on some of these)
+* Other ideas to explore large Scale structure in simulations and/or observations (the notebook in this respository is based in part on some of these)
       * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
       * Large Scale structure in SDSS: https://github.com/ritatojeiro/SDSSEPO/blob/master/AS1001_SDSSEPO.ipynb (some of this will be a bit familiar from the Galaxy populations notebook - but this focuses more on the LSS and environment). 
       * Two-point correlation functions (tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
