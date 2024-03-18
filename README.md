@@ -14,7 +14,7 @@ Other ideas to explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectra
    * Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
    * Pick one of the [Science Exercises](https://sdss-marvin.readthedocs.io/en/stable/tutorials/exercises.html) to try out. 
 
- 4. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
+ 4. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
 
 Other ideas to explore large Scale structure in simulations and/or observations (the notebook in this respository is based in part on some of these)
    * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
