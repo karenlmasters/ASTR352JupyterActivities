@@ -25,6 +25,7 @@ Other ideas to explore large Scale structure in simulations and/or observations 
  5. [Galaxy Images as Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyImagesAsData.ipynb) - a Notebook in this repository. This explores multi-wavelength images of the Centaurus A galaxy using both jpg and fits image files. 
 
 Useful resources for working with FITS images in python: 
+
       * THINGS (HI 21cm data): https://www2.mpia-hd.mpg.de/THINGS/Data.html (moment 0 is the intensity map). 
       * Digitised Sky Survey (for optical FITS images): https://archive.eso.org/dss/dss
       * List of sources for astronomical FITS files: https://fits.gsfc.nasa.gov/fits_samples.html
