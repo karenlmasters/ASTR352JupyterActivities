@@ -22,7 +22,7 @@ Other ideas to explore large Scale structure in simulations and/or observations 
    * Two-point correlation functions (tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
 
  
- 5. [Galaxy Images as Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyImagesAsData.ipynb) - a Notebook in this repository. This explores multi-wavelength images of the Centaurus A galaxy using both jpg and fits image files. 
+ 5. [Galaxy Images as Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyImagesAsData.ipynb) - a Notebook in this repository. This explores multi-wavelength images of the Centaurus A galaxy using both jpg and fits image files. We also did the [StatMorph Tutorial](https://statmorph.readthedocs.io/en/latest/notebooks/tutorial.html) to try out fitting models to galaxy data.
 
 Useful resources for working with FITS images in python: 
 
