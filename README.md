@@ -3,18 +3,17 @@
 
  These examples were practiced and/or developed in a [Sciserver.org](https://apps.sciserver.org/dashboard/) Compute Jupyter Notebook. 
 
- 1. Computing Galactic Orbits of Stars with Gala [Astropy tutorial](https://learn.astropy.org/tutorials/gaia-galactic-orbits.html) 
 
- 2. [Galaxy Populations and Data Visualisation](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_Galaxy%20Populations%20and%20Data%20Visualization_v2024.ipynb) - a Notebook in this repository. This uses SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
+ 1. [Galaxy Populations and Data Visualisation](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_Galaxy%20Populations%20and%20Data%20Visualization.ipynb) - a Notebook in this repository. This uses SciServer and Casjobs to query SDSS data, learn about sample selection, data frames (pandas), and some examples of data visualisation with matplotlib.
 
- 3. [Galaxy Kinematics Scaling Relations and MaNGA Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyKinematicsScalingRelationsMaNGA.ipynb) - a Notebook in this repository. This explores MaNGA data mostly related to kinematics, and also does some statistics with line fits, comparing distributions, exploring the Tully-Fisher relation and how different measures of kinematics differ. 
+ 2. [Galaxy Kinematics Scaling Relations and MaNGA Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyKinematicsScalingRelationsMaNGA.ipynb) - a Notebook in this repository. This explores MaNGA data mostly related to kinematics, and also does some statistics with line fits, comparing distributions, exploring the Tully-Fisher relation and how different measures of kinematics differ. 
 
 Other ideas to explore [SDSS-IV MaNGA](https://www.sdss.org/dr16/manga/) spectral maps of galaxies with the code, Marvin
    * Check out [Marvin Web](https://dr16.sdss.org/marvin/) and pick a galaxy you like. 
    * Do the [Plotting Tutorial: The Basics of Plotting in Marvin](https://sdss-marvin.readthedocs.io/en/stable/tutorials/plotting-tutorial.html), and make the plots for your chosen galaxy. 
    * Pick one of the [Science Exercises](https://sdss-marvin.readthedocs.io/en/stable/tutorials/exercises.html) to try out. 
 
- 4. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
+ 3. [Galaxies and the large-scale structure of the Universe](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_LSSNotebook.ipynb) - a Notebook in this repository. This explores large scale structure as traced by galaxies in the SDSS survey, and how to compute correlations functions and compare to random distributions. 
 
 Other ideas to explore large Scale structure in simulations and/or observations (the notebook in this respository is based in part on some of these)
    * Explore the Indra Simulations (accessed on SciServer with "indra-tools": https://github.com/bfalck/indra-tools) https://www.sciserver.org/datasets/
@@ -22,7 +21,7 @@ Other ideas to explore large Scale structure in simulations and/or observations 
    * Two-point correlation functions (tutorial found on Github which works through this statistical method which is often used on LSS): https://github.com/fjaviersanchez/corrfunc_tutorial
 
  
- 5. [Galaxy Images as Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyImagesAsData.ipynb) - a Notebook in this repository. This explores multi-wavelength images of the Centaurus A galaxy using both jpg and fits image files. We also did the [StatMorph Tutorial](https://statmorph.readthedocs.io/en/latest/notebooks/tutorial.html) to try out fitting models to galaxy data.
+ 4. [Galaxy Images as Data](https://github.com/karenlmasters/ASTR352JupyterActivities/blob/main/ASTR352_GalaxyImagesAsData.ipynb) - a Notebook in this repository. This explores multi-wavelength images of the Centaurus A galaxy using both jpg and fits image files. We also did the [StatMorph Tutorial](https://statmorph.readthedocs.io/en/latest/notebooks/tutorial.html) to try out fitting models to galaxy data.
 
 Useful resources for working with FITS images in python: 
 
@@ -34,6 +33,8 @@ Useful resources for working with FITS images in python:
       * Astropy overlay contours: https://docs.astropy.org/en/stable/visualization/wcsaxes/images_contours.html
       * Astropy make 3 colour image: https://docs.astropy.org/en/stable/visualization/rgb.html
       * Astropy FITS cube: https://learn.astropy.org/tutorials/FITS-cubes.html
+
+5. Computing Galactic Orbits of Stars with Gala [Astropy tutorial](https://learn.astropy.org/tutorials/gaia-galactic-orbits.html) 
 
 
  ## Other Python for Astronomy Resources 
