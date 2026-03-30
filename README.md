@@ -48,4 +48,5 @@ Here are a bunch of links to other Astronomical Python Tutorials and/or Examples
  * [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook) - Github repository of this textbook by Jake VanderPlas
  * Try out LSSGalPy for interactive visualisation: https://github.com/margudo/LSSGALPY
  * NOIR Data Lab: https://datalab.noirlab.edu/docs/manual/UsingTheNOAODataLab/ScienceExamples
+ * Dave Stark's [Tutorial on using Censored Data](https://github.com/dvstark/censored_data_tutorial)
 
